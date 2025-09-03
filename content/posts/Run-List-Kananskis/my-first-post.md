@@ -1,68 +1,66 @@
-
-
-
 +++
 title= "Kananaskis Run List"
 date= "2022-11-23"
+draft = False
 +++
+
 ## West Side of Spray Lakes Road
 
 - Goat Mountain East Paths
-    - massive avalanche paths that are rarely skied
+  - massive avalanche paths that are rarely skied
 - Goat Glacier
-    - crevasses spring only.
-- Mt Nestor 
-    - South to East path
-        - Don't park in Buller avi closure 
-        - Melt freeze or Power in January
+  - crevasses spring only.
+- Mt Nestor
+  - South to East path
+    - Don't park in Buller avi closure
+    - Melt freeze or Power in January
 - Mt Turbulent
-    - Long day mostly for peak. Rarely done
+  - Long day mostly for peak. Rarely done
 - Shark
-    - Approach to Assiniboine Area or Bryant creek Shelter(under construction)
-    - East Path
-    - NE Glades
+  - Approach to Assiniboine Area or Bryant creek Shelter(under construction)
+  - East Path
+  - NE Glades
 - Tent Ridge
-    - Grizzly Trees
-    - Tent Bowl
+  - Grizzly Trees
+  - Tent Bowl
 - Tryst Chutes
 - Pig's Back
 - Burstall Pass Trailhead
-    - Birdwood-Smuts-Commonwealth Traverse
-    - Pig's tail/Mt Commonweath col
-        - wind hammered
-    - Burstall Pass Peak
-    - Snow Peak
-    - Traverse to Talus Lodge
-    - West slopes
-    - Zeke's col
-    - South or North pass
-    - Sir Douglas North Face
+  - Birdwood-Smuts-Commonwealth Traverse
+  - Pig's tail/Mt Commonweath col
+    - wind hammered
+  - Burstall Pass Peak
+  - Snow Peak
+  - Traverse to Talus Lodge
+  - West slopes
+  - Zeke's col
+  - South or North pass
+  - Sir Douglas North Face
 - French-Haig-Robertson
 - Up and Down the Robertson
 - Haig Basin
-    - Mt. Jellicoe
-    - Beatty Bump
-        - North Glacier
-        - East Paths 
-        - South Col?
-    - Traverse to Turbine Canyon
+  - Mt. Jellicoe
+  - Beatty Bump
+    - North Glacier
+    - East Paths
+    - South Col?
+  - Traverse to Turbine Canyon
 
 ## Highwood
 
 - Poccatera Ridge
-    - South Glades
-    - Peak
-    - West Bowl
-    - East slopes under Mt Poccatera
-    - Grizzly col South and North
-    - Highwood Ridge North Bowl
+  - South Glades
+  - Peak
+  - West Bowl
+  - East slopes under Mt Poccatera
+  - Grizzly col South and North
+  - Highwood Ridge North Bowl
 - Poccaterra Ridge East Bowls and Chutes
 
-
 - Arethusa
-    - glades
-    - SE Gully from peak
-    - Storm North Chute
+  - glades
+  - SE Gully from peak
+  - Storm North Chute
 - Rae Glacier
 - Ptarmigan glades
 - Storelk
@@ -70,70 +68,68 @@ date= "2022-11-23"
 
 ## East Side of Spray Lakes Road
 
-- Kent South Peak 
-    - SW slopes
-        -wind, suncrust, and facet prone
-    - SW Drainages
-        - Big terrain traps
-        - very faceted 
-    - North Drainage
-        - Bushwhack approach
+- Kent South Peak
+
+  - SW slopes
+    -wind, suncrust, and facet prone
+  - SW Drainages
+    - Big terrain traps
+    - very faceted
+  - North Drainage
+    - Bushwhack approach
 
 - Kent Ridge North
-    - South Gully
-        - Melt freeze only
-    - North Trees
+
+  - South Gully
+    - Melt freeze only
+  - North Trees
 
 - Mount James Walker
-    - Very wind exposed
-    - SE exposure
+  - Very wind exposed
+  - SE exposure
 - Headwall Lakes to Chester traverse
-    - sprint melt freeze
+  - sprint melt freeze
 - Chestmill Couloir
 - Chester Lake
-    - south facing glades above lake
-    - Chester Couloir
-    - Mt Chester scramble approach gully 
+  - south facing glades above lake
+  - Chester Couloir
+  - Mt Chester scramble approach gully
 - Rummel lake
-    -no turns
+  -no turns
 - Rummel Ridge
-    - East slopes
-    - South slopes
-    - North slopes
+  - East slopes
+  - South slopes
+  - North slopes
 - Engadine Burn
 - Buller South Glades
 - Buller Loop
 - Buller West avalanche paths
 - Red Ridge SW glades
-    - facet prone, rocky approach
+  - facet prone, rocky approach
 - Sparrowhawk
-    - spring only
+  - spring only
 - Sparrowhawk trees
-    - facet and suncrust prone
-
-
-
-
+  - facet and suncrust prone
 
 ## Upper Kananaskis Lakes
 
 - Frozen Lake
-    - East Path
-    - NW trees
-    - North Path
-- Rawson Lake Ridge/ Sarrail Ridge 
+  - East Path
+  - NW trees
+  - North Path
+- Rawson Lake Ridge/ Sarrail Ridge
 - Mount Nomad
-    - unexplored
+  - unexplored
 - Aster Lake
-    - camping or long days in spring
+  - camping or long days in spring
 - Three Isle Lake Area
-    - unexplored
+  - unexplored
 - Indefatigable
-    - East to SE paths
-    - North chutes and glades
-    - East Path (never skied?)
-    - North Outlier
-        - South slopes
-        - North Bowl
-    - Traverse to Invincible North Bowl
+  - East to SE paths
+  - North chutes and glades
+  - East Path (never skied?)
+  - North Outlier
+    - South slopes
+    - North Bowl
+  - Traverse to Invincible North Bowl
 - Lyautey Glacier

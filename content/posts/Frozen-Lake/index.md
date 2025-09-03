@@ -1,6 +1,7 @@
 +++
 title = "Frozen Lake"
 date = "2023-06-01"
+draft = False
 +++
 
 Frozen Lake offers short tree skiing pitches and a couple of open chutes, with steeper terrain ranging from 35 to 40 degrees leading to a flat lake (terrain Trap!). The approach is longer, but the groomed trail provides a fast exit. Remember to be courteous to cross-country skiers by leaving your dog at home and avoiding busy cross-country trail times. Ski single file and, when stopping, do so off the groomer. Do to the longer approach the powder is often well preserved.
