@@ -1,7 +1,7 @@
 +++
 title = 'TEST Post'
 date = 2025-09-03T12:32:53-06:00
-draft = False
+draft = false
 +++
 
-![](./Taiga_Point_North_slopes.jpg)
+This is a test

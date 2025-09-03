@@ -1,7 +1,7 @@
 +++
-title= "Kananaskis Run List"
-date= "2022-11-23"
-draft = False
+title = "Kananaskis Run List"
+date = 2023-09-03T12:32:53-06:00
+draft = false
 +++
 
 ## West Side of Spray Lakes Road
