@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/benwardswards/Skiing-Rockies-Colmbias.git/'
+baseURL = "https://benwardswards.github.io/Skiing-Rockies-Colmbias"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Skiing in the Rockies and Columbias"
 theme = 'ananke'
