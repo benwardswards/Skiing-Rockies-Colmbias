@@ -1,0 +1,50 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo cache
+/.hugo_build.lock
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node modules (if using npm/yarn for theme dev)
+node_modules/
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Large media files (optional - see note below)
+# *.mov
+# *.mp4
+# *.avi
+
+# Backup files
+*.bak
+*.backup
+
+*.mov
+*.mp4
+*.avi
