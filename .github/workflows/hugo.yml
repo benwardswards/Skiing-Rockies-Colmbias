@@ -1,30 +1,48 @@
-name: Deploy Hugo site to GitHub Pages
+# .github/workflows/hugo.yml
+name: Build and Deploy Hugo to gh-pages
 
 on:
   push:
-    branches:
-      - main # or your main branch name
+    branches: ["main"]
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
         with:
-          submodules: true # Fetch Hugo themes (optional)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+          submodules: recursive
+          fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+      - name: Setup Hugo 🔧
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest" # Or a specific version
-          extended: true # For SASS/SCSS support
+          hugo-version: "latest"
+          extended: true
 
-      - name: Build Hugo site
-        run: hugo --minify
+      - name: Install dependencies 📦
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Build Hugo site 🏗️
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --minify \
+            --baseURL "https://benwardswards.github.io/Skiing-Rockies-Colmbias/"
+
+      - name: Deploy to GitHub Pages 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          folder: public
+          branch: gh-pages
+          clean: true
+          single-commit: true
